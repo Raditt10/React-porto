@@ -1,4 +1,3 @@
-**Portfolio Website - RAFADITYA S
 <div align="center">
 
 https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react
