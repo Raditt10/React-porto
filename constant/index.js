@@ -360,19 +360,19 @@ const projectsData = [
     id: 1,
     gambar: "kultilas.png",
     judul: "Kultilas",
-    parag: "Kultilas is an application for managing finances in schools, especially for extracurricular activities.",
-    tech: ["PHP", "JavaScript", "MySQL"],
+    parag: "Kultilas is a web-based application designed to facilitate the management of student extracurricular activities in schools.",
+    tech: ["Vuejs", "MySQL"],
     linkDemo : "#",
     linkCode : "https://github.com/Raditt10/Kultilas"
   },
 
   {
     id: 2,
-    gambar: "bendehara.png",
-    judul: "Bendehara XI RPL 1 SMKN 13 Bandung",
-    parag: "Bendehara App is a school class financial management application. This application is designed to help students manage their class finances more effectively and transparently.",
-    tech: ["PHP", "MySQL", "JavaScript"],
-    linkCode : "https://github.com/Raditt10/BendeharaKelas"
+    gambar: "kulkul.png",
+    judul: "Kul-kul",
+    parag: "Kul-kul is an application for managing finances in schools, especially for extracurricular activities.",
+    tech: ["Laravel", "MySQL", "Tailwind CSS"],
+    linkCode : "https://github.com/Raditt10/kulkul"
   },
 
 ]

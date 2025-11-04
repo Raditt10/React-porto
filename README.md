@@ -96,3 +96,4 @@ Prerequisites
     Node.js (v18 or higher)
 
     npm, yarn, or pnpm**
+
